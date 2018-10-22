@@ -1,0 +1,9 @@
+Building Bahiti
+
+See doc/readme-qt.rst for instructions on building Bahiti-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bahiti.
+
+See doc/build-*.txt for instructions on building bahitid,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bahiti.
